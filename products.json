@@ -1,0 +1,50 @@
+[
+    {
+        "name": "MacBook",
+        "price": 1299.99,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iPhone",
+        "price": 999.99,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy",
+        "price": 799.99,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "Galaxytab",
+        "price": 649.99,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "XPS",
+        "price": 999.99,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "Inspiron",
+        "price": 549.99,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "Spectre",
+        "price": 1199.99,
+        "featured": true,
+        "company": "hp"
+    },
+    {
+        "name": "Pavilion 15",
+        "price": 749.99,
+        "featured": true,
+        "company": "hp"
+    }
+]
